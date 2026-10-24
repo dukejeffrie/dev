@@ -1,0 +1,4 @@
+{
+  // Pi extensions resolve dependencies at runtime through Pi, not this workspace.
+  "typescript.validate.enable": false
+}
